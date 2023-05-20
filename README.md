@@ -3,7 +3,7 @@ Tools yang dibutuhkan
 - XAMPP dengan php versi 7.2 Ke atas
 - Text editor (VScode disarankan)
 - Template admin LTE V.3.2.0 (Sudah tersedia pada folder assets di project ini)
-- Template front tm-380-eco-tree, Link Download https://templatemo.com/tm-380-eco-tree (Sudah tersedia pada folder assets di project ini)
+- Template front tm-380-eco-tree, Link Download https://templatemo.com/tm-380-eco-tree (Sudah tersedia pada folder assets_front di project ini)
 
 Langkah Instalasi
 1. Copy dan extact file di folder htdocs
